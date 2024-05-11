@@ -1,0 +1,9 @@
+.check-qatar{
+    box-shadow: 10px 20px 30px 40px rgba(rgb(0, 255, 221), rgb(124, 71, 230), rgb(159, 27, 27), alpha);
+    width: 840px; height: 670px;
+    border-radius: 1% 1% 1% 1%;
+    background-color: lightgreen;
+    position: absolute;
+    top: 30px; bottom: 30px;
+    right: 590px; left: 590px;
+}
